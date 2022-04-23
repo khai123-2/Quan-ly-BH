@@ -1,0 +1,30 @@
+.App{
+    text-align: center;
+    padding: 20px 20px;
+    background-color: #f0f2f5;
+    height: 100vh;
+}
+
+.table-Seacrh{
+    background-color: #ffff;
+    padding: 24px 24px 0px 0px;
+}
+
+.custom-form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.table-content{
+    margin-top: 16px;
+}
+
+.table-content-add{
+    padding: 16px 24px;
+    background-color: #ffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

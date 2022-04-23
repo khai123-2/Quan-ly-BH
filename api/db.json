@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "codeProduct": "K14",
+      "quantity": 20,
+      "name": "IPhone 5",
+      "dateImport": "2022-04-23",
+      "cost": 3000000,
+      "price": 3400000,
+      "id": "2a0a66cb-2a24-4dae-96a3-1f4b4337b95a",
+      "key": "2a0a66cb-2a24-4dae-96a3-1f4b4337b95a"
+    },
+    {
+      "codeProduct": "123",
+      "quantity": 2,
+      "name": "Giải trí",
+      "dateImport": "2022-04-23",
+      "cost": 4300000,
+      "price": 6800000,
+      "id": "8e51f8cd-c92e-47cb-85ff-1f60c62b6ac4",
+      "key": "8e51f8cd-c92e-47cb-85ff-1f60c62b6ac4",
+      "total": 13600000,
+      "dateOut": "2022-04-23"
+    },
+    {
+      "codeProduct": "K13",
+      "quantity": 20,
+      "name": "Sạc iphone",
+      "dateImport": "2022-04-23",
+      "cost": 200000,
+      "price": 300000,
+      "id": "2a1e9e8a-7a34-4a0a-baaa-c8508180cc3a",
+      "key": "2a1e9e8a-7a34-4a0a-baaa-c8508180cc3a"
+    },
+    {
+      "codeProduct": "k1",
+      "quantity": 23,
+      "name": "quan",
+      "dateImport": "2022-04-23",
+      "cost": 1111000,
+      "price": 21111000,
+      "id": "f38badde-fc56-479b-899a-b96656fc172a",
+      "key": "f38badde-fc56-479b-899a-b96656fc172a",
+      "total": 485553000,
+      "dateOut": "2022-04-23"
+    },
+    {
+      "codeProduct": "jk1",
+      "quantity": 2,
+      "name": "ao",
+      "dateImport": "2022-03-17",
+      "cost": 111111,
+      "price": 222222,
+      "id": "fa2b9990-8213-4f2a-831c-e51aae535b20",
+      "key": "af9ecc58-dd01-48e8-9bd0-0b7486ab1086"
+    }
+  ]
+}
